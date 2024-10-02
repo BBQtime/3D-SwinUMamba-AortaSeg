@@ -1,0 +1,37 @@
+{
+    "channel_names": {
+        "0": "CT"
+    },
+    "labels": {
+        "background": 0,
+        "zone0": 1,
+        "innominate": 2,
+        "zone1": 3,
+        "left_common_carotid": 4,
+        "zone2": 5,
+        "left_subclavian_artery": 6,
+        "zone3": 7,
+        "zone4": 8,
+        "zone5": 9,
+        "zone6": 10,
+        "celiac_artery": 11,
+        "zone7": 12,
+        "sma": 13,
+        "zone8": 14,
+        "right_renal_artery": 15,
+        "left_renal_artery": 16,
+        "zone9": 17,
+        "zone10_r": 18,
+        "zone10_l": 19,
+        "right_internal_iliac_artery": 20,
+        "left_internal_iliac_artery": 21,
+        "zone11_r": 22,
+        "zone11_l": 23
+    },
+    "numTraining": 50,
+    "file_ending": ".mha",
+    "name": "AortaSeg24",
+    "reference": "none",
+    "description": "AortaSeg24",
+    "dataset_release": "1.0"
+}
