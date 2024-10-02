@@ -1,0 +1,5 @@
+torch>=2.0.0
+#nnunetv2==2.1.2
+causal-conv1d>=1.2.0
+mamba-ssm
+timm
