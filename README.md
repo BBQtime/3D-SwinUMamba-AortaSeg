@@ -1,7 +1,5 @@
 # Extending Swin-UMamba for 3D Aortic Segmentation in CT Images with 3D-Selective-Scan Mechanism
 
-# 3D-SwinUMamba-AortaSeg
-
 This repository contains the implementation of **3D-SwinUMamba**, an advanced architecture for 3D aortic segmentation in CT images. The model extends the original [UMamba](https://github.com/bowang-lab/U-Mamba) and [Swin-UMamba](https://github.com/path-to-swin-umamba-repo) by incorporating a **3D-Selective-Scan (SS3D)** mechanism, enabling efficient processing of volumetric data through six distinct scanning paths. This repository is specifically for the [**AortaSeg2024 Challenge**](https://aortaseg24.grand-challenge.org/dataset-access-information/).
 
 ## Key Features:
